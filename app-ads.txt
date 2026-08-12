@@ -1,1 +1,1 @@
-# Placeholder - AdMob publisher ID will be added here once the AdMob account is created
+google.com, pub-6723244083580400, DIRECT, f08c47fec0942fa0
